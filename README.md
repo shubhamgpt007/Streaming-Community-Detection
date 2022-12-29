@@ -1,6 +1,6 @@
 # Streming-Community-Detection
 
-Download the Dataset from [SNAP](https://snap.stanford.edu/data/#communities).
+Download the dataset from [SNAP](https://snap.stanford.edu/data/#communities).
 
 Steps to run:
 * place the dataset into data folder.
