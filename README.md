@@ -2,7 +2,7 @@ Code repository of paper "Communities in Streaming Graphs: Small Space Data Stru
 
 Gupta et al. "Communities in Streaming Graphs: Small Space Data Structure, Benchmark Data Generation, and Linear Algorithm."
 
-Preprint: 10.36227/techrxiv.22724588.v1
+Preprint: [10.36227/techrxiv.22724588.v1](https://doi.org/10.36227/techrxiv.22724588.v1)
 
 To cite the paper:
 
